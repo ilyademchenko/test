@@ -9,3 +9,5 @@ Feature:
     Given some case
     When something appears
     Then something new appears
+    When edit scenario in git
+    Then see it in JIRA
